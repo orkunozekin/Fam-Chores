@@ -1,0 +1,30 @@
+[
+  {
+    "id": 15125,
+    "first_name": "Orkun",
+    "last_name": "Ozekin",
+    "email": "orkunozekin@gmail.com",
+    "role": "admin"
+  },
+  {
+    "id": 1232,
+    "first_name": "Tara",
+    "last_name": "Ozekin",
+    "email": "taraozekin@gmail.com",
+    "role": "admin"
+  },
+  {
+    "id": 36343,
+    "first_name": "Atlas",
+    "last_name": "Ozekin",
+    "email": "ozekinorkun@gmail.com",
+    "role": "user"
+  },
+  {
+    "id": 57454,
+    "first_name": "Maverick",
+    "last_name": "Ozekin",
+    "email": "oozekin0420@gmail.com",
+    "role": "user"
+  }
+]
