@@ -1,5 +1,4 @@
 import './Dashboard.scss'
-import './LoginForm.scss'
 
 interface DashboardProps {
   name: string
