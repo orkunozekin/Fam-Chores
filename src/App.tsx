@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route index element={<Dashboard name='Orkun' />} />
+        <Route index element={<Dashboard />} />
       </Routes>
     </div>
   )

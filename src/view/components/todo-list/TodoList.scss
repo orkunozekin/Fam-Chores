@@ -1,0 +1,24 @@
+ul.todo-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  // justify-content: center;
+  gap: 80px;
+  padding: 5em;
+
+  justify-content: space-between;
+  // @media (min-width: 880px) and (max-width: 1838px) {
+  //   justify-content: center;
+  // }
+  //align tiles to the left for uneven number of projects per line
+  &::after {
+    content: "";
+    width: 280px;
+    height: 250px;
+
+    // @media (min-width: 1130px) and (max-width: 1440px) {
+    //   width: 40%;
+    //   min-width: 230px;
+    // }
+  }
+}

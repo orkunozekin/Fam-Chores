@@ -1,4 +1,17 @@
-* {
+// Imports the primary font used for the application.
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+
+$theme-colors: (
+  "panel-background": #FFE599,
+  "border-color": #A74141
+);
+
+html,
+body,
+#root {
+  font-family: "Montserrat", sans-serif;
   padding: 0;
   margin: 0;
+  background-color: #F8EAEA;
 }
